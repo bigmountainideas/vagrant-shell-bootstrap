@@ -12,6 +12,7 @@ Configure your vagrant setup!
 
 `vagrant up`
 
+## ENJOY!
 
 ****************************************************************************************
 (The MIT License)
